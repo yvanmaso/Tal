@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /*
- * Schéma de création de la table Carnet 
+ * SchÃ©ma de crÃ©ation de la table Carnet 
  * 
  */
 @XmlRootElement
